@@ -1,6 +1,6 @@
 public class NumberFive {
 
-    //5. Реализуйте сортировку Шелла.
+    //5. Implement Shell sort.
 
     static void sortShella(int[] array) {
         int i, j, step;

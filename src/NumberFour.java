@@ -1,6 +1,6 @@
 public class NumberFour {
 
-    //4. Реализуйте сортировку вставками.
+    //4. Implement insertion sort.
 
     static void sortByInserts(int[] array) {
         for (int i = 1; i < array.length; i++) {

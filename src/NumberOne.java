@@ -1,7 +1,7 @@
 public class NumberOne {
 
-    /*1. Заданы два одномерных массива с различным количеством элементов и натуральное число k. Объединить их в один массив,
-    включив второй массив между k-м и (k+1) - м элементами первого.
+    /*1. Given two one-dimensional arrays with different numbers of elements and a natural number k. Merge them into one array,
+    including the second array between the k-th and (k+1) - m elements of the first one.
     */
 
     public int[] newArray(int[] sum, int[] arr1, int[] arr2) {

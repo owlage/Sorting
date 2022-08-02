@@ -1,6 +1,6 @@
 public class NumberTwo {
 
-    //2. Реализуйте сортировку выбором.
+    //2. Implement selection sort.
 
     public static void sort(int[] a) {
         for (int i = 0; i < a.length; i++) {

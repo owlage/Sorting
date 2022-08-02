@@ -1,6 +1,6 @@
 public class NumberThree {
 
-    //3. Реализуйте сортировку обменами.
+    //3. Implement swap sorting.
 
     static void bubbleSort(int[] array) {
         for (int i = 0; i < array.length; i++) {
